@@ -1,8 +1,8 @@
 # <a href="" target="_blank">Pexel_Icons</a>
 
-![Pexelicons Logo](assets/images/Websitescreenshot.png)
+![Pexelicons Logo](Websitescreenshot.png)
 
-Pexelicons is a website that offers custom folder icons for Windows, allowing users to personalize their PC by changing the default folder icons to match their style preferences.
+Pexel_Icons is a website that offers custom folder icons for Windows, allowing users to personalize their PC by changing the default folder icons to match their style preferences.
 
 ## Features
 
@@ -23,7 +23,7 @@ Pexelicons is a website that offers custom folder icons for Windows, allowing us
 
 ### Download Icons
 
-Visit the [Pexelicons Website]() to download custom folder icons for your PC.
+Visit the [Pexe_Icons Website](https://pexel-icons.vercel.app/) to download custom folder icons for your PC.
 
 ### How to Use
 
@@ -51,4 +51,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">Design & Built by <a href="https://github.com/shoryarajput21">@shoryarajput21</a> | &copy; twentytwentyfour</p>
+<p align="center">Design & Built by <a href="https://github.com/shoryarajput21">@shoryarajput21</a> | &copy; 2025</p>
